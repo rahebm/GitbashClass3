@@ -14,6 +14,8 @@ public class Main {
 
         }if (degree==false){
             System.out.println("you need to get a degree");
+
+            System.out.println("the code is complete");
         }
     }
 }
